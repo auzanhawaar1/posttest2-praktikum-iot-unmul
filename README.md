@@ -10,9 +10,10 @@ Deskripsi: Pada rangkaian ini menghasilkan output berupa LED yang dapat diatur k
 
 Pembagian Tugas
 
-Abdullah Mustaqim : Membuat struktur coding dan mengatur konfigurasi webserver.
-Auzan Hawaari Fahrony : Menyusun rangkaian komponen LED, Button, Piezzo Buzzer dan NodeMCU
-Galuh Endah Pambudi : Asisten merangkai dan coding
+Abdullah Mustaqim : Membuat struktur coding dan mengatur konfigurasi webserver. 
+Auzan Hawaari Fahrony : Menyusun rangkaian komponen LED, Button, Piezzo Buzzer dan NodeMCU 
+Galuh Endah Pambudi : Asisten merangkai dan coding 
+
 Komponen yang digunakan:
 
 ESP8266
